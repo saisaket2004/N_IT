@@ -1,3 +1,4 @@
+#8-4-2026
 import streamlit as st
 from ollama import Client 
 
