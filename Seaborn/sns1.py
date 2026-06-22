@@ -9,8 +9,8 @@ sns.set(style="whitegrid")
 tips = sns.load_dataset('tips')
 
 # Streamlit app
-st.title("Comprehensive Tips Dataset Visualizations by prakash senapati")
-st.write("This app displays a variety of Seaborn plots created by prakash senapati exploring the Tips dataset, which includes data on restaurant bills and tips.")
+st.title("Comprehensive Tips Dataset Visualizations by sai Saket")
+st.write("This app displays a variety of Seaborn plots created by sai Saket exploring the Tips dataset, which includes data on restaurant bills and tips.")
 
 # Function to create and display a plot
 def display_plot(title, plot_func):
